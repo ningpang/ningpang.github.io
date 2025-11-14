@@ -6,19 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Short Biography
-======
+------
 
 I am currently a lecturer at Aviation University of Air Force, China. I obtained my PhD degree under the supervision of Prof. Weidong Xiao and Prof. [Xiang Zhao](https://xiangz-nudt.github.io/) in 2024 at National Univeristy of Defense Technology. I obtained my Master's Degree in 2020 and the Bachelor’s Degree in 2018.
 
 Areas of interest in research include: Knowledge Graph, Large Language Model, World model, Federated Learning and Electromagnetic Warfare.
 
 ## 🔥 News
-======
+------
 - 2025.11: We have one paper on Knwoledge Editing accepted by **AAAI** 2026!
 
 ## 📝 Selected Publications
-======
+------
 - Simiao Zhao<sup>†</sup>, **Ning Pang**<sup>†</sup>, Zhen Tan, Yanli Hu, Weidong Xiao, Xiang Zhao. Multi-granularity Temporal Knowledge Editing over Large Language Models. **AAAI** 2026.
 
 - **Ning Pang**, Xiang Zhao, Weixin Zeng, Zhen Tan, Weidong Xiao. Towards Privacy-preserving Personalized Federated Relation Classification. IEEE Trans. on Big Data (**TBD**). Early Access, 2025.   
