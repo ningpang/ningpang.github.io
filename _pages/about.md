@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "About Me (庞宁)"
+title: "Ning Pang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Short Biography
+======
 
 I am currently a lecturer at Aviation University of Air Force, China. I obtained my PhD degree under the supervision of Prof. Weidong Xiao and Prof. [Xiang Zhao](https://xiangz-nudt.github.io/) in 2024 at National Univeristy of Defense Technology. I obtained my Master's Degree in 2020 and the Bachelor’s Degree in 2018.
 
@@ -17,11 +19,13 @@ Areas of interest in research include: Knowledge Graph, Large Language Model, Wo
 
 📝 Selected Publications
 ======
+- Simiao Zhao<sup>†</sup>, **Ning Pang**<sup>†</sup>, Zhen Tan, Yanli Hu, Weidong Xiao, Xiang Zhao. Multi-granularity Temporal Knowledge Editing over Large Language Models. **AAAI** 2026.
+
 - **Ning Pang**, Xiang Zhao, Weixin Zeng, Zhen Tan, Weidong Xiao. Towards Privacy-preserving Personalized Federated Relation Classification. IEEE Trans. on Big Data (**TBD**). Early Access, 2025.   
 
 - Simiao Zhao, Zhen Tan, **Ning Pang**, Weidong Xiao, Xiang Zhao. Dynamic-prototype Contrastive Fine-tuning for Continual Few-shot Relation Extraction with Unseen Relation Detection. **COLING**, 2025.
 
-- **Ning Pang**, Xiang Zhao, Weixin Zeng, Zhen Tan, Weidong Xiao. StaRS: Learning a Stable Representation Space for Continual Relation Classification. IEEE Trans. Neural Networks and Learning Systems (**TNNLS**). 2025, 36(5):9670-9683. 
+- **Ning Pang**, Xiang Zhao, Weixin Zeng, Zhen Tan, Weidong Xiao. StaRS: Learning a Stable Representation Space for Continual Relation Classification. IEEE Trans. Neural Networks and Learning Systems (**TNNLS**). 2025, 36(5): 9670-9683. 
 [[code]](https://github.com/ningpang/StaRS) 
   
 - **Ning Pang**, Xiang Zhao, Weixin Zeng, Zhen Tan, Weidong Xiao. SCL: Selective Contrastive Learning for Data-driven Zero-shot Relation Extraction. Transations of Association for Computational Linguistics (**TACL**). 2024, 12: 1720-1735.
