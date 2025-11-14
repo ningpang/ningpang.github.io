@@ -13,7 +13,7 @@ Areas of interest in research include: Knowledge Graph, Large Language Model, Wo
 
 🔥 News
 ======
-We have one paper on Knwoledge Editing accepted by **AAAI** 2026!
+- 2025.11: We have one paper on Knwoledge Editing accepted by **AAAI** 2026!
 
 📝 Selected Publications
 ======
@@ -76,10 +76,16 @@ We have one paper on Knwoledge Editing accepted by **AAAI** 2026!
 
 🏅 荣誉与基金
 ------
-- *2025* 国家自然科学基金青年科学基金项目（C类）: 受限资源条件下的分布式关系知识获取与表示关键技术研究. 
-- *2025* 中国指挥与控制学会博士学位论文激励计划 （全国13人）. 
-- *2024* 第21届中国信息系统及应用大会优秀论文奖.    
-- *2023* 湖南省优秀硕士学位论文.   
-- *2022* 湖南省研究生创新项目重点项目：面向动态环境的知识获取与表示关键技术研究.
-- *2020* 第13届KSEM会议最佳学生论文奖.
-- *2018* 第9届国际网络空间数据挖掘竞赛第一名.
+- 2025 National Natural Science Foundation of China (NSFC) Youth Science Fund (Category C): Key Technology Research on Distributed Relation Knowledge Acquisition and Representation under Resource-Constrained Conditions.
+
+- 2025 China Command and Control Society Doctoral Thesis Incentive Program (Top 13 nationwide).
+
+- 2024 21st China Information Systems and Applications Conference Excellent Paper Award.
+
+- 2023 Hunan Province Outstanding Master's Thesis Award.
+
+- 2022 Hunan Province Graduate Innovation Project Key Project: Key Technology Research on Knowledge Acquisition and Representation in Dynamic Environments.
+
+- 2020 13th KSEM Conference Best Student Paper Award.
+
+- 2018 9th International Cyber Space Data Mining Competition First Place.
