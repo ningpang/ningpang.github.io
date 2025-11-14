@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a lecturer at Aviation University of Air Force, China. I obtained my PhD degree under the supervision of Prof. Weidong Xiao and Prof. [Xiang Zhao](https://xiangz-nudt.github.io/) in 2024 at National Univeristy of Defense Technology. I obtained my Master's Degree in 2020 and the Bachelor’s Degree in 2017.
+I am currently a lecturer at Aviation University of Air Force, China. I obtained my PhD degree under the supervision of Prof. Weidong Xiao and Prof. [Xiang Zhao](https://xiangz-nudt.github.io/) in 2024 at National Univeristy of Defense Technology. I obtained my Master's Degree in 2020 and the Bachelor’s Degree in 2018.
 
 Areas of interest in research include: Knowledge Graph, Large Language Model, World model, Federated Learning and Electromagnetic Warfare.
 
@@ -21,7 +21,7 @@ Areas of interest in research include: Knowledge Graph, Large Language Model, Wo
 
 - Simiao Zhao, Zhen Tan, **Ning Pang**, Weidong Xiao, Xiang Zhao. Dynamic-prototype Contrastive Fine-tuning for Continual Few-shot Relation Extraction with Unseen Relation Detection. **COLING**, 2025.
 
-- **Ning Pang**, Xiang Zhao, Weixin Zeng, Zhen Tan, Weidong Xiao. StaRS: Learning a Stable Representation Space for Continual Relation Classification. IEEE Trans. Neural Networks and Learning Systems (**TNNLS**). 2025 36(5):9670-9683. 
+- **Ning Pang**, Xiang Zhao, Weixin Zeng, Zhen Tan, Weidong Xiao. StaRS: Learning a Stable Representation Space for Continual Relation Classification. IEEE Trans. Neural Networks and Learning Systems (**TNNLS**). 2025, 36(5):9670-9683. 
 [[code]](https://github.com/ningpang/StaRS) 
   
 - **Ning Pang**, Xiang Zhao, Weixin Zeng, Zhen Tan, Weidong Xiao. SCL: Selective Contrastive Learning for Data-driven Zero-shot Relation Extraction. Transations of Association for Computational Linguistics (**TACL**). 2024, 12: 1720-1735.
@@ -74,18 +74,18 @@ Areas of interest in research include: Knowledge Graph, Large Language Model, Wo
 
 [comment]: <> (- 郭爱博, 赵翔, `庞宁`. 一种用于情报快速整编的中文文本分类方法, 2021. )
 
-🏅 荣誉与基金
+🏅 Award and Grants
 ------
-- 2025 National Natural Science Foundation of China (NSFC) Youth Science Fund (Category C): Key Technology Research on Distributed Relation Knowledge Acquisition and Representation under Resource-Constrained Conditions.
+- 2025: National Natural Science Foundation of China (**NSFC**) Youth Science Fund: Distributed Knowledge Acquisition and Representation under Resource Constraints.
 
-- 2025 China Command and Control Society Doctoral Thesis Incentive Program (Top 13 nationwide).
+- 2025: **Doctoral Thesis Incentive Program** of Chinese Institute of Command and Control  (Top 13 nationwide).
 
-- 2024 21st China Information Systems and Applications Conference Excellent Paper Award.
+- 2024: **Excellent Paper** Award of the 21st WISA Conference.
 
-- 2023 Hunan Province Outstanding Master's Thesis Award.
+- 2023: **Outstanding Master's Thesis** Award of Hunan Province .
 
-- 2022 Hunan Province Graduate Innovation Project Key Project: Key Technology Research on Knowledge Acquisition and Representation in Dynamic Environments.
+- 2022: Postgraduate Scientific Research Innovation Project of Hunan Province: Research on Knowledge Acquisition and Representation in Dynamic Environments.
 
-- 2020 13th KSEM Conference Best Student Paper Award.
+- 2020: **Best Student Paper** Award of the 13th KSEM Conference.
 
-- 2018 9th International Cyber Space Data Mining Competition First Place.
+- 2018: The **First Place** of the 9th International Cyber Space Data Mining Competition.
