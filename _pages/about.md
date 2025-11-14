@@ -13,11 +13,11 @@ I am currently a lecturer at Aviation University of Air Force, China. I obtained
 
 Areas of interest in research include: Knowledge Graph, Large Language Model, World model, Federated Learning and Electromagnetic Warfare.
 
-# 🔥 News
+## 🔥 News
 ======
 - 2025.11: We have one paper on Knwoledge Editing accepted by **AAAI** 2026!
 
-# 📝 Selected Publications
+## 📝 Selected Publications
 ======
 - Simiao Zhao<sup>†</sup>, **Ning Pang**<sup>†</sup>, Zhen Tan, Yanli Hu, Weidong Xiao, Xiang Zhao. Multi-granularity Temporal Knowledge Editing over Large Language Models. **AAAI** 2026.
 
@@ -43,7 +43,7 @@ Areas of interest in research include: Knowledge Graph, Large Language Model, Wo
 - **Ning Pang**, Xiang Zhao, Weidong Xiao. Chinese Text Classification via Bidirectional Lattice LSTM. **KSEM**, 2020. <font color="red">[Best Student Papr]</font> 
 [[code]](https://github.com/ningpang/Ch-TC) 
 
-# 📝 Other Publications
+## 📝 Other Publications
 ------
 
 - **Ning Pang**, Weidong Xiao, Xiang Zhao, Zhen Tan, Jiuyang Tang. Course of Action Based on Mixture-of-Agent. **Journal of Command and Control**. 2025, 2: 181-190. 
@@ -78,7 +78,7 @@ Areas of interest in research include: Knowledge Graph, Large Language Model, Wo
 
 [comment]: <> (- 郭爱博, 赵翔, `庞宁`. 一种用于情报快速整编的中文文本分类方法, 2021. )
 
-# 🏅 Award and Grants
+## 🏅 Award and Grants
 ------
 - 2025: National Natural Science Foundation of China (**NSFC**) Youth Science Fund: Distributed Knowledge Acquisition and Representation under Resource Constraints.
 
