@@ -16,7 +16,7 @@ My research interests include: Knowledge Graph, Large Language Model, World mode
 
 ## 🔥 News
 ------
-- 2025/11: <font color=#563830>_We have one paper on Knwoledge Editing accepted by </font> [**AAAI** 2026](https://aaai.org/conference/aaai/aaai-26/)!_
+- 2025/11: <font color="#563830">_We have one paper on Knwoledge Editing accepted by </font> **AAAI** 2026!_
 
 ## 📝 Selected Publications
 ------
