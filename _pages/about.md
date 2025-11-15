@@ -12,11 +12,11 @@ Short Biography
 
 I am currently a Lecturer at Aviation University of Air Force, China. I received my PhD degree from National Univeristy of Defense Technology, under the supervision of Prof. Weidong Xiao and Prof. [Xiang Zhao](https://xiangz-nudt.github.io/) in 2024. I earned my Master's Degree in 2020 and the Bachelor’s Degree in 2018, both from the same institution.
 
-My research interests include: Knowledge Graph, Large Language Model, World model, Federated Learning and Electromagnetic Warfare.
+My research interests include: Knowledge Graph, Large Language Model, World Model, Federated Learning and Electromagnetic Warfare.
 
 ## 🔥 News
 ------
-- 2025/11: <font color="#563830">We have one paper on Knwoledge Editing accepted by </font> **AAAI** 2026!
+- 2025/11: <font color="#541412">We have one paper on Knwoledge Editing accepted by </font> **AAAI** 2026!
 
 ## 📝 Selected Publications
 ------
