@@ -10,13 +10,13 @@ redirect_from:
 Short Biography
 ------
 
-I am currently a lecturer at Aviation University of Air Force, China. I obtained my PhD degree under the supervision of Prof. Weidong Xiao and Prof. [Xiang Zhao](https://xiangz-nudt.github.io/) in 2024 at National Univeristy of Defense Technology. I obtained my Master's Degree in 2020 and the Bachelor’s Degree in 2018.
+I am currently a Lecturer at Aviation University of Air Force, China. I received my PhD degree from National Univeristy of Defense Technology, under the supervision of Prof. Weidong Xiao and Prof. [Xiang Zhao](https://xiangz-nudt.github.io/) in 2024. I earned my Master's Degree in 2020 and the Bachelor’s Degree in 2018, both from the same institution.
 
-Areas of interest in research include: Knowledge Graph, Large Language Model, World model, Federated Learning and Electromagnetic Warfare.
+My research interests include: Knowledge Graph, Large Language Model, World model, Federated Learning and Electromagnetic Warfare.
 
 ## 🔥 News
 ------
-- 2025.11: We have one paper on Knwoledge Editing accepted by **AAAI** 2026!
+- 2025/11: <font color=#563830>_We have one paper on Knwoledge Editing accepted by </font> [**AAAI** 2026](https://aaai.org/conference/aaai/aaai-26/)!_
 
 ## 📝 Selected Publications
 ------
@@ -39,7 +39,7 @@ Areas of interest in research include: Knowledge Graph, Large Language Model, Wo
   
 - Zenghua Liao, Zongqiang Yang, Peixin Huang, **Ning Pang**, Xiang Zhao. Multimodal Fusion-based Hierachical Extraction for Chinese Epidemic Event. Data Science and Engineering (**DSE**). 2023, 8: 73-83.
 
-- `**Ning Pang**, Xiang Zhao, Wei Wang, Weidong Xiao, Deke Guo. Few-shot Text Classification by Leveraging Bi-directional Attention and Cross-class Knowledge. Science China Information Sciences (**SCIS**). 2021, 64, 130103. [[code]](https://github.com/ningpang/BACK) 
+- **Ning Pang**, Xiang Zhao, Wei Wang, Weidong Xiao, Deke Guo. Few-shot Text Classification by Leveraging Bi-directional Attention and Cross-class Knowledge. Science China Information Sciences (**SCIS**). 2021, 64, 130103. [[code]](https://github.com/ningpang/BACK) 
   
 - **Ning Pang**, Xiang Zhao, Weidong Xiao. Chinese Text Classification via Bidirectional Lattice LSTM. **KSEM**, 2020. <font color="red">[Best Student Papr]</font> 
 [[code]](https://github.com/ningpang/Ch-TC) 
@@ -90,6 +90,8 @@ Areas of interest in research include: Knowledge Graph, Large Language Model, Wo
 - 2023: **Outstanding Master's Thesis** Award of Hunan Province .
 
 - 2022: Postgraduate Scientific Research Innovation Project of Hunan Province: Research on Knowledge Acquisition and Representation in Dynamic Environments.
+
+- 2020: The **First Place** of 2020 Language and Intelligence Challenge.
 
 - 2020: **Best Student Paper** Award of the 13th KSEM Conference.
 
