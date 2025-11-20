@@ -22,7 +22,7 @@ My research interests include: Knowledge Graph, Large Language Model, World Mode
 
 ## 📝 Selected Publications
 ------
-- **Ning Pang**<sup>†</sup>, **Zou Li**<sup>†</sup>, Pengcheng Wan, Hongchao Wu, Yuchen Bing, Xiang Zhao. Perturb and Restore: Efficient Category Revocation in Federated Unlearning. **Information Fusion**, Accepted.
+- **Ning Pang**<sup>†</sup>, Zou Li<sup>†</sup>, Pengcheng Wan, Hongchao Wu, Yuchen Bing, Xiang Zhao. Perturb and Restore: Efficient Category Revocation in Federated Unlearning. **Information Fusion**. Accepted.
 
 - Simiao Zhao<sup>†</sup>, **Ning Pang**<sup>†</sup>, Zhen Tan, Yanli Hu, Weidong Xiao, Xiang Zhao. Multi-granularity Temporal Knowledge Editing over Large Language Models. **AAAI** 2026.
 
