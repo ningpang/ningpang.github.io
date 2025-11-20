@@ -16,10 +16,14 @@ My research interests include: Knowledge Graph, Large Language Model, World Mode
 
 ## 🔥 News
 ------
+- 2025/11: <font color="#541412">We have one paper on Federated Unlearning accepted by </font> **Information Fusion**!
+
 - 2025/11: <font color="#541412">We have one paper on Knwoledge Editing accepted by </font> **AAAI** 2026!
 
 ## 📝 Selected Publications
 ------
+- **Ning Pang**<sup>†</sup>, **Zou Li**<sup>†</sup>, Pengcheng Wan, Hongchao Wu, Yuchen Bing, Xiang Zhao. Perturb and Restore: Efficient Category Revocation in Federated Unlearning. **Information Fusion**, Accepted.
+
 - Simiao Zhao<sup>†</sup>, **Ning Pang**<sup>†</sup>, Zhen Tan, Yanli Hu, Weidong Xiao, Xiang Zhao. Multi-granularity Temporal Knowledge Editing over Large Language Models. **AAAI** 2026.
 
 - **Ning Pang**, Xiang Zhao, Weixin Zeng, Zhen Tan, Weidong Xiao. Towards Privacy-preserving Personalized Federated Relation Classification. IEEE Trans. on Big Data (**TBD**). Early Access, 2025.   
