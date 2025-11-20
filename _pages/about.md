@@ -26,7 +26,7 @@ My research interests include: Knowledge Graph, Large Language Model, World Mode
 
 - Simiao Zhao<sup>†</sup>, **Ning Pang**<sup>†</sup>, Zhen Tan, Yanli Hu, Weidong Xiao, Xiang Zhao. Multi-granularity Temporal Knowledge Editing over Large Language Models. **AAAI** 2026.
 
-- **Ning Pang**, Xiang Zhao, Weixin Zeng, Zhen Tan, Weidong Xiao. Towards Privacy-preserving Personalized Federated Relation Classification. IEEE Trans. on Big Data (**TBD**). Early Access, 2025.   
+- **Ning Pang**, Xiang Zhao, Weixin Zeng, Zhen Tan, Weidong Xiao. Towards Privacy-preserving Personalized Federated Relation Classification. IEEE Trans. on Big Data (**TBD**). 2025, 11(6): 2972-2986.   
 
 - Simiao Zhao, Zhen Tan, **Ning Pang**, Weidong Xiao, Xiang Zhao. Dynamic-prototype Contrastive Fine-tuning for Continual Few-shot Relation Extraction with Unseen Relation Detection. **COLING**, 2025.
 
